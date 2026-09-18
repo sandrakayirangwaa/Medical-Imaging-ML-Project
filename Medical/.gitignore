@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+train.csv
+train_images/
+
+# Trained model
+aptos_mobilenetv2.keras
+
+# Local Streamlit files
+.streamlit/secrets.toml
